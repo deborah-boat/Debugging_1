@@ -1,0 +1,17 @@
+{
+  "name": "e3099a4acf61120d3dc5107a52772f16-7b5ba5c26629a92f229b7feccd853860852c8727",
+  "version": "1.0.0",
+  "description": "",
+  "main": "easy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
